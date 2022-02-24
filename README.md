@@ -5,7 +5,7 @@ O 'Timer' é um programa que conta o tempo até o proximo ano.
 Ele está escrito em Polonês, porque estou estudando a lingua.
 
 
- #Polish.
+#Polish.
 
  Cześć! Nazwam się Brenno Bener.
 
